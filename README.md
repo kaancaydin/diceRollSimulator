@@ -1,4 +1,4 @@
 ﻿# diceRollSimulator
 
-<a href="https://kaancaydin.github.io/diceRollSimulator/" target="_blank">🔗 Live Demo</a>
+Live Demo: [https://kaancaydin.github.io/diceRollSimulator/](https://kaancaydin.github.io/diceRollSimulator/)
 
